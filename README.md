@@ -8,7 +8,7 @@ as a user. As a user, I want to be able to add players to my favorites for quick
 
 Technologies used: -Node.js -Express.js -MongoDB
 
-https://github.com/omarvercetti/unit-2-project-/blob/main/Screenshot%202023-12-21%20at%207.21.42%20PM.png?raw=true![image](https://github.com/omarvercetti/unit-2-project-/assets/150702846/e2bef737-2683-4424-9515-888473ac654e)
+<img width="897" alt="3406155F-5880-4EF5-BA1E-3BC416EC8883" src="https://github.com/omarvercetti/unit2project/assets/150702846/cdf3ee1b-f74f-40e8-9371-38eb1b8797db">
 
 Next Steps
 
