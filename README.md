@@ -14,7 +14,6 @@ WIREFRAMES
 
 ERD
 
-![B09707A8-A0C4-48DA-8C43-58CAD3C55DA6](https://github.com/omarvercetti/unit2project/assets/150702846/652c3486-c4ed-4181-a6f6-db274d228ab6)
 
 
 Next Steps
