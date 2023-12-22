@@ -14,6 +14,9 @@ WIREFRAMES
 
 ERD
 
+<img width="786" alt="989CC17A-355D-4693-BF19-5ABC3D31A7C1" src="https://github.com/omarvercetti/unit2project/assets/150702846/ea5c43a8-51e3-4af8-9451-45d79e132ff4">
+
+
 
 
 Next Steps
