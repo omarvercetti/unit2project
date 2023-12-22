@@ -7,9 +7,13 @@ Additional fetures include: player of the month,& a community review section, wh
 as a user. As a user, I want to be able to add players to my favorites for quick reference. As a user, I want the ability to search through a comprehensive list of basketball player names. As a user, I want to find players based on specific criteria such as teams, nationality, and positions.
 
 Technologies used: -Node.js -Express.js -MongoDB
+
 WIREFRAMES
+
 <img width="897" alt="3406155F-5880-4EF5-BA1E-3BC416EC8883" src="https://github.com/omarvercetti/unit2project/assets/150702846/cdf3ee1b-f74f-40e8-9371-38eb1b8797db">
+
 ERD
+
 ![B09707A8-A0C4-48DA-8C43-58CAD3C55DA6](https://github.com/omarvercetti/unit2project/assets/150702846/652c3486-c4ed-4181-a6f6-db274d228ab6)
 
 
